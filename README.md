@@ -1,13 +1,13 @@
-# Advent of Code 2024
-Here, I will upload my results for the daily advent of code! It is possible that I miss some days <br>
-*Please note this is my first time using GitHub so I will learn as I go; watch me learn!*
+# Advent of Code
+Here, I will upload my results for the daily advent of code! It is possible that I miss almost **all** days
 
 ```py
-# Advent Code --- 2024
+# Advent Code
 # By: http://github.com/fakeforsure
-# In: December, 2024
+# On: December, spanning from 2024 to 2025...
 ```
 
+## License
 > This is free and unencumbered software released into the public domain.
 > 
 > Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -32,3 +32,6 @@ Here, I will upload my results for the daily advent of code! It is possible that
 > OTHER DEALINGS IN THE SOFTWARE.
 > 
 > For more information, please refer to <https://unlicense.org/>
+
+## Puzzle Makers
+I am not the owner of the puzzles, please check out https://adventofcode.com/ for the full puzzles with the correct inputs needed to solve the puzzles
