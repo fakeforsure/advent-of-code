@@ -1,5 +1,9 @@
 # Advent of Code
-Here, I will upload my results for the daily advent of code! It is possible that I miss almost **all** days
+Here, I will upload my results for the daily advent of code! 
+
+## Not All days
+It is possible that I miss almost **all** days... <br>
+I probably do one to five days max and then dip
 
 ```py
 # Advent Code
